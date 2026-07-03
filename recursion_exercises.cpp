@@ -34,7 +34,7 @@ int main()
     assert( occurrences( 1000, 0 ) == 3 );
     assert( occurrences( 1111, 1 ) == 4 );
 
-    assert( lucky7s( "cs32" ) == "cs32" );
+    assert( lucky7s( "core" ) == "core" );
     assert( lucky7s( "Apple Baseball" ) == "Ap77ple Basebal77l" );
     assert( lucky7s( "abbba" ) == "ab77b77ba" );
     assert( lucky7s( "aabbbaa" ) == "a77ab77b77ba77a" );
