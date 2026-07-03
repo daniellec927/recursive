@@ -1,7 +1,6 @@
 /*
  project2.cpp
  Danielle Choi
- XXXXXXXXX
  Created on 10/13/23
  */
 
