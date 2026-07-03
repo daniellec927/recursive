@@ -13,10 +13,9 @@ assertion-based test driver.
 
 ## Build & Run
 ```bash
-g++ -std=c++17 project2.cpp -o recursive
+g++ -std=c++17 recursion_exercises.cpp -o recursive
 ./recursive
 ```
 
 ## Suggested improvements
-- Rename `project2.cpp` to something descriptive (e.g. `recursion_exercises.cpp`).
 - Consider renaming the repo from `recursive` to `recursion-exercises`.
